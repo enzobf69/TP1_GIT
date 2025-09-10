@@ -14,7 +14,7 @@ int main() {
     cout << "Entrez votre choix (1-5): ";
     cin >> choix;
 
-    // Switch pour afficher un message en fonction du choix
+    // Switch pour afficher un message en fonction du choix!
     switch (choix) {
     case 1:
         cout << "Vous avez choisi le chou vert." << endl;
