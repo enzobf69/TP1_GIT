@@ -17,22 +17,22 @@ int main() {
     // Switch pour afficher un message en fonction du choix!
     switch (choix) {
     case 1:
-        cout << "Vous avez choisi le chou vert." << endl;
+		cout << "Vous avez choisi le chou vert." << endl;//ecrit vous avez choisi le chou vert  
         break;
     case 2:
-        cout << "Vous avez choisi le chou rouge." << endl;
+		cout << "Vous avez choisi le chou rouge." << endl;//ecrit vous avez choisi le chou rouge
         break;
     case 3:
-        cout << "Vous avez choisi le chou-fleur." << endl;
+		cout << "Vous avez choisi le chou-fleur." << endl;//ecrit vous avez choisi le chou-fleur
         break;
     case 4:
-        cout << "Vous avez choisi le chou de Bruxelles." << endl;
+		cout << "Vous avez choisi le chou de Bruxelles." << endl; //ecrit vous avez choisi le chou de Bruxelles 
         break;
     case 5:
-        cout << "Vous avez choisi le chou chinois." << endl;
+		cout << "Vous avez choisi le chou chinois." << endl;//ecrit vous avez choisi le chou chinois    
         break;
     default:
-        cout << "Choix invalide. Veuillez entrer un nombre entre 1 et 5." << endl;
+		cout << "Choix invalide. Veuillez entrer un nombre entre 1 et 5." << endl;//ecrit choix invalide veuillez entrer un nombre entre 1 et 5 
     }
 
     return 0;
