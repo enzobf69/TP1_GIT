@@ -29,7 +29,7 @@ int main() {
 		cout << "Vous avez choisi le chou de Bruxelles." << endl; //ecrit vous avez choisi le chou de Bruxelles 
         break;
     case 5:
-		cout << "Vous avez choisi le chou chinois." << endl;//ecrit vous avez choisi le chou chinois    
+		cout << "Vous avez choisi le chou bleu." << endl;//ecrit vous avez choisi le chou bleu    
         break;
     default:
 		cout << "Choix invalide. Veuillez entrer un nombre entre 1 et 5." << endl;//ecrit choix invalide veuillez entrer un nombre entre 1 et 5 
