@@ -17,7 +17,7 @@ int main() {
     // Switch pour afficher un message en fonction du choix!
     switch (choix) {
     case 1:
-		cout << "Vous avez choisi le chou vert." << endl;//ecrit vous avez choisi le chou vert  
+		cout << "Vous avez choisi le chou orange." << endl;//ecrit vous avez choisi le chou vert  
         break;
     case 2:
 		cout << "Vous avez choisi le chou rouge." << endl;//ecrit vous avez choisi le chou rouge
